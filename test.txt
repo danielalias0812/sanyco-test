@@ -1,4 +1,9 @@
-Hello GitHub!
-This is my first test project.
+My GitHub Practice Project
 
-I edited this file using VS Code
+Name: Muhammad Daniel
+Project: Git and GitHub Testing
+Editor: Visual Studio Code
+
+Update 2:
+I have learned how to edit files and upload changes to GitHub.
+I am now practising version control.
